@@ -1,0 +1,14 @@
+{
+  "name": "yami-book",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yami",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/core": "^6.1.2"
+  }
+}
